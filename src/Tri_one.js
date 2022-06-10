@@ -5,6 +5,7 @@ function Tri_one() {
         <div>
             Tri_one
             kdjfkdjkdjk
+            ghfyfydrydrydr
 
         </div>
 
